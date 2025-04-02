@@ -2,7 +2,10 @@ Meu nome é Rostand, software develooper atualmente estudande de sistemas de inf
 
 ATUAL CONHECIMENTO EM
 ----------------------------
-![image](https://github.com/user-attachments/assets/1908d8cb-88ad-431c-8e5a-90aab290754e) ![image](https://github.com/user-attachments/assets/2c4a80da-c42d-4fd8-a3df-f4989904dbf8)
+
+![image](https://github.com/user-attachments/assets/59a9b146-af7f-4116-be0f-52e0b950ab8d) ![image](https://github.com/user-attachments/assets/245bea73-0c5f-4a11-8b04-e1dc908b18d7)
+
+
 
 
 
