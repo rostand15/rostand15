@@ -1,5 +1,5 @@
 <h1>Bem vindo ao meu perfil git</h1>
-<p>Meu nome é Rostand, software develooper atualmente estudande de sistemas de informação na Unifacisa, em constante busca de conhecimento e de evolução na área de criação de softwares de qualidade.</p>
+<p>Meu nome é Rostand, software developer atualmente estudande de sistemas de informação na Unifacisa, em constante busca de conhecimento e de evolução na área de criação de softwares de qualidade.</p>
 <h2>🚀 Linguagens  e ferramentas de conhecimento atual </h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
