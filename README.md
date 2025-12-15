@@ -6,7 +6,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rostand araújo pinheiro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rostand araújo pinheiro" height="30" width="40" /></a>
-<a href="https://fb.com/https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" height="30" width="40" /></a>
 <a href="https://instagram.com/rostandaraujop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rostandaraujop" height="30" width="40" /></a>
 </p>
 
