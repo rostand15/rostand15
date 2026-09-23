@@ -1,5 +1,6 @@
 <h1>Bem vindo ao meu perfil git</h1>
-<p>Meu nome é Rostand, software developer, atualmente estudante de Sistemas de Informação na Unifacisa, em constante busca por conhecimento e evolução na área de criação de softwares de qualidade.</p>
+<p>Sou Rostand, Software Developer e estudante de Sistemas de Informação na UNIFACISA. Em constante busca por conhecimento e evolução, desenvolvendo minhas habilidades para criar softwares de qualidade e soluções eficientes.
+</p>
 <h2>🚀 Linguagens  e ferramentas de conhecimento atual </h2>
 <p align="left"> <a <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
